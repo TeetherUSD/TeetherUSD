@@ -1,4 +1,5 @@
-***ERC-20 TeetherUSD is a new way to stabilize the token value***
+![](https://github.com/TeetherUSD/TeetherUSD/assets/140672715/e4e4bd52-a70d-480a-b691-887bbf1c2800)
+### ERC-20 TeetherUSD is a new way to stabilize the token value
 
 TeetherUSD (USDT) is a unique meme cryptocurrency that has its value pegged
 to the cost of dental services. This means that the price of TeetherUSD fluctuates
